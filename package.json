@@ -1,0 +1,28 @@
+{
+  "name": "cypress-demoblaze",
+  "version": "1.0.0",
+  "description": "Demoblaze test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidGDD/cypress-demoblaze.git"
+  },
+  "keywords": [
+    "demoblaze",
+    "cypress"
+  ],
+  "author": "davidgdd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidGDD/cypress-demoblaze/issues"
+  },
+  "homepage": "https://github.com/DavidGDD/cypress-demoblaze#readme",
+  "dependencies": {
+    "cypress": "^10.10.0"
+  }
+}

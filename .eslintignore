@@ -1,0 +1,7 @@
+.idea
+node_modules
+cypress/videos
+cypress/screenshots
+mochawesome-report
+.vscode
+.sonarlint
