@@ -1,6 +1,6 @@
 Feature: BlazeDemo Automation
 
-  As a candidate to The Knot WW
+  As a ?
   I want to test some features of Blazemeter
   So that i cant probe my skills with Cypress
 
